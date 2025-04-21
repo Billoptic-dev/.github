@@ -1,4 +1,4 @@
-# AI-Powered Logistics Document Processor
+# Billoptic
 
 A secure, VPS-hosted AI system for extracting structured data from logistics documents (bills of lading, etc).
 
